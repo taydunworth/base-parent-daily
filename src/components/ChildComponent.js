@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-export class ChildComponent extends Component {
+class ChildComponent extends Component {
   render() {
     return (
       <div>Dumb Component receiving Props
